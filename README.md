@@ -1,4 +1,5 @@
 # Covid19_thesis_work
+An iterative strategy has been used during the training and evaluation phase of the study. This study has used three machine-learning algorithms: Logistic regression, neural network keras ,XGBoost
 ## Motivation 
 - Symptoms can not be detected immediately after being affected
 - Even symptoms are getting blurred day by day
